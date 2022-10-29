@@ -1,0 +1,16 @@
+{
+"name": "ufa48h",
+"theme": "ufa48h",
+"version": "10.8.7",
+"description": "ufa48h สมัครเว็บไซต์สล็อตเว็บตรง ไม่มีขั้นต่ำ แจกโบนัสเครดิตฟรี",
+"keywords": [
+"ufa48h",
+"ufa48h เครดิตฟรี",
+"ufa48h ทางเข้า"
+],
+"repository": "https://github.com/miloovaltin/ufa48h",
+"license": "MIT",
+"engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
